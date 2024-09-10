@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing and Web Development 
 - 🌱 I’m currently learning UX/UI Design
 - 💞️ I’m looking to collaborate on different UX/UI Design projects
-- 📫 How to reach me: Instagram: @itsmekeonnn // Facebook: Keon Alday // Linkedin: Keon Alday // Gmail: keonalday20@gmail.com
+- 📫 How to reach me: Instagram: @itsmekeonnn // Facebook: Keon Alday // Linkedin: Keon Alday // Gmail: aldaykeon1020@gmail.com
 
 <!---
 KeonChesterAlday/KeonChesterAlday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
