@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeonChesterAlday
 - 👀 I’m interested in Designing and Web Development 
-- 🌱 I’m currently learning UX/UI Design
-- 💞️ I’m looking to collaborate on different UX/UI Design projects
+- 🌱 I’m currently learning UI/UX Design
+- 💞️ I’m looking to collaborate on different UI/UX Design projects
 - 📫 How to reach me: Instagram: @itsmekeonnn // Facebook: Keon Alday // Linkedin: Keon Alday // Gmail: aldaykeon1020@gmail.com
 
 <!---
